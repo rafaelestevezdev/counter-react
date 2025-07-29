@@ -29,7 +29,7 @@ Este es un mini proyecto diseñado para practicar y entender los conceptos bási
 1. **Clonar el repositorio**
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/rafaelestevezdev/counter-react
    cd counter-react
    ```
 
